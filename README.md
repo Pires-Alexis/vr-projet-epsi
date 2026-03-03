@@ -13,7 +13,7 @@ Aller à L'URL et activer le mode VR sur le casque
 ## Contrôles
 Button de l'index pour sélectionner
 ## Assets 3D
-Déplacement :
+Déplacement (Téléportation) :
 - Circle(lieu) + Straight Path(direction) *4
   
 Défi 1 :
