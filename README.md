@@ -13,13 +13,16 @@ https://edu.delightex.com/LUR-JGX
 ## Assets 3D
 Déplacement :
 - Circle(lieu) + Straight Path(direction) *4
+  
 Défi 1 :
 - Desk
 - Lock
 - key
+
 Défi 2 :
 - Button fait par Blender + AI
 - Board
+  
 Défi 3 :
 - Board
 - Low Board
@@ -27,8 +30,10 @@ Défi 3 :
 - Roast Turkey
 - Champagne Bottle
 - Candy Cane
+
 Porte :
 -   Front Door
+  
 Roue :
 - LockWheel * 3 : Text panel *8 +  NumberLock_Click
 - Adjustable Windows
