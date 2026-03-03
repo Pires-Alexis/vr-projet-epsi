@@ -9,7 +9,9 @@ Faire une expérience vr où le joueur d'où s'échapper d'une pièce via des in
 ## Lien du projet 
 https://edu.delightex.com/LUR-JGX
 ## Instruction Installation
+Aller à L'URL et activer le mode VR sur le casque
 ## Contrôles
+Button de l'index pour sélectionner
 ## Assets 3D
 Déplacement :
 - Circle(lieu) + Straight Path(direction) *4
@@ -37,6 +39,9 @@ Porte :
 Roue :
 - LockWheel * 3 : Text panel *8 +  NumberLock_Click
 - Adjustable Windows
+
+Mur :
+- Bricks wall
 ## Bugs connus
 - L'affichage de victoire se repète plusieurs fois d'un coup dû à une boucle d'appel de fonction, on a décidé que selon l'algorithme, le message d'affiche qu'à la fin même si ça ne marche rarement.
 - Le button était introuvable dans la bibliothèque, on a décidé de créer un button sur Blender avec l'aide de l'IA pour faire le script de création. 
