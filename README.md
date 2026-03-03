@@ -3,7 +3,7 @@
 - Pires Alexis
 - Monge Corentin
 - Plisson Timothé
-- Dal Lolin Luna
+- Dal Molin Luna
 ## But du projet 
 Faire une expérience vr où le joueur d'où s'échapper d'une pièce via des indices données en finissant les égnimes accessible à tout le monde avec un peu de culture.
 ## Lien du projet 
